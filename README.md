@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hussain Ali Zahid  
+# 👋 Hi, I'm Hussain
 
 🚀 **Machine Learning Engineer | Python Developer | ML API Specialist**
 
